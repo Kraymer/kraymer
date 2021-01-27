@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 > `[media]` [flinck](https://github.com/Kraymer/flinck): sort your movies on filesystem using symlinks (2016 Mar) ·
 > `[media]` [Replica](https://github.com/Kraymer/replica), *From Replica to Icarus Vol. 1*: the id3 cloner (2012)
 
-:fire: Have a sneak-peek of future projects to come on my [Discussions zone](https://github.com/Kraymer/excommito/discussions).
+:fire: Have a sneak-peek of future projects to come on my [Discussions zone](https://github.com/Kraymer/excommito/discussions), and vote for the best one(s) ! :fist:
