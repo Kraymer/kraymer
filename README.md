@@ -1,7 +1,6 @@
 ### Yello there 👋
 
 :book: Digest of my active open source projects :
-> `[piano]` [Simple-Repertoire](https://github.com/Kraymer/Simple-Piano) crowd-sourced Simply Piano repertoire (2021 Jan) ·
 > `[git]` [cesar](https://github.com/Kraymer/cesar), the radical compressor (2020) ·
 > `[git]` [treeage](https://github.com/Kraymer/treeage): expose aging code in repository (2020) ·
 > `[web]` [alphameme](https://github.com/Kraymer/alphameme/): must-have emojis pack for the corporate world (2020) ·
