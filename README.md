@@ -3,7 +3,6 @@
 :book: Digest of my active open source repositories :
 > `[git]` [cesar](https://github.com/Kraymer/cesar), the radical compressor (2020) ·
 > `[git]` [treeage](https://github.com/Kraymer/treeage): expose aging code in repository (2020) ·
-> `[web]` [alphameme](https://github.com/Kraymer/alphameme/): must-have emojis pack for the corporate world (2020) ·
 > `[web]` [Excommito](https://github.com/Kraymer/kraymer.github.com): back-oriented jekyll template (2017) ·
 > `[unixy]` [cronicle](https://github.com/Kraymer/cronicle): time-spaced backups via cron (2017) ·
 > `[unixy]` [F-dotfiles](https://github.com/Kraymer/f-dotfiles): opiniated dotfiles organization scheme based on stow (2016) ·
