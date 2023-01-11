@@ -1,7 +1,7 @@
 ### Yello there 👋
 
 :book: Digest of my active open source repositories :
-> `[chess]` [pawnhub](https://github.com/Kraymer/pawnhub): terminal listing of your online chess games results ·
+> `[chess]` [pawnhub](https://github.com/Kraymer/pawnhub): terminal listing of your online chess games results (2022) ·
 > `[git]` [cesar](https://github.com/Kraymer/cesar): the radical compressor (2020) ·
 > `[blog]` [Excommito](https://github.com/Kraymer/kraymer.github.com): back-oriented jekyll template (2017) ·
 > `[unixy]` [cronicle](https://github.com/Kraymer/cronicle): time-spaced backups via cron (2017) ·
