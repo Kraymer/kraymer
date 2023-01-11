@@ -1,9 +1,9 @@
 ### Yello there 👋
 
 :book: Digest of my active open source repositories :
-> `[git]` [cesar](https://github.com/Kraymer/cesar), the radical compressor (2020) ·
-> `[git]` [treeage](https://github.com/Kraymer/treeage): expose aging code in repository (2020) ·
-> `[web]` [Excommito](https://github.com/Kraymer/kraymer.github.com): back-oriented jekyll template (2017) ·
+> `[chess]` [pawnhub](https://github.com/Kraymer/pawnhub): terminal listing of your online chess games results ·
+> `[git]` [cesar](https://github.com/Kraymer/cesar): the radical compressor (2020) ·
+> `[blog]` [Excommito](https://github.com/Kraymer/kraymer.github.com): back-oriented jekyll template (2017) ·
 > `[unixy]` [cronicle](https://github.com/Kraymer/cronicle): time-spaced backups via cron (2017) ·
 > `[unixy]` [F-dotfiles](https://github.com/Kraymer/f-dotfiles): opiniated dotfiles organization scheme based on stow (2016) ·
 > `[media]` [flinck](https://github.com/Kraymer/flinck): sort your movies on filesystem using symlinks (2016) ·
